@@ -27,3 +27,9 @@ img {
     margin: 1rem auto;
     width: 50%;
 }
+
+#messages {
+    display: block;
+    margin: 1rem auto;
+    width: 50%;
+}
