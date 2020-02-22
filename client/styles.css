@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: dodgerblue;
+    text-align: center;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+label {
+    margin: 1rem;
+}
+
+input, textarea, button {
+    display: block;
+    width: 100%;
+    margin: 1rem;
+}
+
+img {
+    display: block;
+    margin: 1rem auto;
+    width: 50%;
+}
